@@ -44,6 +44,9 @@ _NOTE_: The i217LM,i217V,i218LM,i218V,i219LM, and i219V have a `--lan-switch` fl
 ## Datasheets
 
 [82579LM / 82579V](https://github.com/Thrilleratplay/gbe_generator_datasheets/blob/main/Intel%2082579%20Gigabit%20Ethernet%20PHY82579-datasheetvol21.pdf)
+
 [i217LM / i217V](https://github.com/Thrilleratplay/gbe_generator_datasheets/blob/main/i217-ethernet-controller-datasheet-2.pdf)
+
 [i218LM / i218V](https://github.com/Thrilleratplay/gbe_generator_datasheets/blob/main/i218-ethernet-connection-datasheet-275854.pdf)
+
 [i219LM / i219V](https://github.com/Thrilleratplay/gbe_generator_datasheets/blob/main/ethernet-connection-i219-datasheet-2.pdf)
