@@ -1,9 +1,11 @@
 # GBE generator
 Intel Gigabit Ethernet firmware blob generator for 82579LM, 82579V, i217LM, i217V, i218LM, i218V, i219LM, or i219V
 
+All firmware options are configured with Intel's defaults.  For extra customization, options within the `gbe_generator.py` script are documented with the corresponding section in the device's datasheet.
+
 ## Usage
 
-_NOTE_: the MAC address is to be formatted without separator characters. Example `00deadc0ffee`
+_NOTE_: the MAC address is to be formatted without separator characters. Example `--mac 00deadc0ffee`
 
 _NOTE_: The 82579LM and 82579V have a `--mobile` flag if used in a mobile/laptop device.  Default FALSE.
 
